@@ -8,23 +8,6 @@
 <br />
 
 <div align="center">
-  <img
-    width="390"
-    src="https://github-readme-stats.vercel.app/api?username=PlumYu&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en"
-    alt="PlumYu's GitHub Stats"
-  />
-  <img
-    width="390"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=PlumYu&theme=transparent&count_private=true&border_radius=10&locale=en"
-    alt="PlumYu's"
-  />
-  <img
-    width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=PlumYu&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en"
-    alt="PlumYu 最常用的语言"
-  />
-</div>
-<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
